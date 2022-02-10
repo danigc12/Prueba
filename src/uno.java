@@ -5,6 +5,7 @@ public class uno {
 		// TODO Auto-generated method stub
 		String autor = "Daniel García";
 		
+		
 	}
 
 }
