@@ -6,6 +6,7 @@ public class uno {
 		String autor = "Daniel García";
 		
 		
+		
 	}
 
 }
