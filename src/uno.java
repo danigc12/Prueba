@@ -6,8 +6,7 @@ public class uno {
 		String autor = "Daniel García";
 		System.out.println("hola");
 		
-		
-		
+		System.out.println("MODIFICACION HECHA EN EL MASTER");
 	}
 
 }
